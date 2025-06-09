@@ -1,10 +1,6 @@
 # exemples destinés à Claude
 
-stockage des exemples nécessaires à Claude pour le développement de l'application
+<p>stockage des exemples nécessaires à Claude pour le développement de l'application</p>
 
-old-layout
-  les layouts de l'ancienne application CONTROLsecu
-
-screenshots
-  app
-    screenchots de l'ancienne application CONTROLsecu
+<p>old-layout : les layouts de l'ancienne application CONTROLsecu</p>
+<p>screenshots/app : screenchots de l'ancienne application CONTROLsecu</p>
