@@ -1,0 +1,573 @@
+{
+	"status":true,
+	"data":
+		{
+			"agences":
+				[
+					{
+						"id":3,
+						"nom":"AGENCE BORDEAUX NORD",
+						"tech":"0",
+						"contact":""
+					},
+					{
+						"id":4,
+						"nom":"AGENCE GRAND PARC",
+						"tech":"0",
+						"contact":""
+					},
+					{
+						"id":1,
+						"nom":"AGENCE HAUTS DE GARONNE",
+						"tech":"0",
+						"contact":""
+					},
+					{
+						"id":5,
+						"nom":"AGENCE TALENCE",
+						"tech":"0",
+						"contact":""
+					},
+					{
+						"id":11,
+						"nom":"DHS",
+						"tech":"",
+						"contact":null
+					},
+					{
+						"id":10,
+						"nom":"DIR PROXIMITE ET RELATION CLI",
+						"tech":null,
+						"contact":null
+					},
+					{
+						"id":8,
+						"nom":"GESTION LOCATIVE \u0026 SOLIDARITES",
+						"tech":null,
+						"contact":null
+					},
+					{
+						"id":2,
+						"nom":"HABITATS SIS",
+						"tech":"0",
+						"contact":""
+					},
+					{
+						"id":6,
+						"nom":"MBC",
+						"tech":"-1",
+						"contact":""
+					},
+					{
+						"id":9,
+						"nom":"POLE SUPPORT",
+						"tech":null,
+						"contact":null
+					}
+				],
+			"version":1,
+			"idMbr":143,
+			"adrMac":"google/sdk_gphone64_x86_64/emu64xa:15/AE3A.240806.036/12592187:user/release-keys",
+			"mail":"laurent.ille@benysoftware.fr",
+			"structure":
+				{
+			        "0": 
+				        {
+				            "id": 7,
+				            "txt": "Espaces extérieurs",
+				            "ico": "12",
+				            "pts": 
+					            {
+					                "0": 
+						                {
+						                    "id": "59",
+						                    "txt": "Colonnes sèches- Portillon-Signalétique",
+						                    "tip": "Sont en bon état",
+						                    "cat": "234",
+						                    "urg": 2
+						                },
+					                "1": 
+						                {
+						                    "id": 38,
+						                    "txt": "Coffret gaz et électriques",
+						                    "tip": "Les capots de protections sont en bon état.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "2": 
+						                {
+						                    "id": 97,
+						                    "txt": "Façade",
+						                    "tip": "Sont  en bon état, aucun risque de chute d'objets",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "3": 
+						                {
+						                    "id": 130,
+						                    "txt": "Luminaire, lampadaire, potelet",
+						                    "tip": "Sont  en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "4": 
+						                {
+						                    "id": 107,
+						                    "txt": "Grilles EP, caniveaux, bouches siphoïdes, regards de visite",
+						                    "tip": "Sont en place et en bon état.&lt;br \/&gt;Présence d'eau suffisante dans les bouches siphoïdes, pour éviter les odeurs.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                }
+					            }
+				        },
+			        "1": 
+				        {
+				            "id": 2,
+				            "txt": "Locaux divers (vélos ect..)",
+				            "ico": "7",
+				            "pts": 
+					            {
+					                "0": 
+						                {
+						                    "id": 133,
+						                    "txt": "Porte accès",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "1": 
+						                {
+						                    "id": 72,
+						                    "txt": "Éclairages - détecteurs présence - électricité en général",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                }
+					            }
+				        },
+			        "2": 
+				        {
+				            "id": 3,
+				            "txt": "Hall",
+				            "ico": "2",
+				            "pts": 
+					            {
+					                "0": 
+						                {
+						                    "id": 131,
+						                    "txt": "Plan sécurité",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "1": 
+						                {
+						                    "id": 35,
+						                    "txt": "Blocs de secours",
+						                    "tip": "Les ampoules fonctionnent, les blocs ne sont pas dégradés.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "2": 
+						                {
+						                    "id": 128,
+						                    "txt": "Commande de désemfumage (cable ou pneumatique)",
+						                    "tip": "Sont en bon état et fonctionnent.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "3": 
+						                {
+						                    "id": 112,
+						                    "txt": "Gaines techniques divers",
+						                    "tip": "Sont accessibles, en bon état, non encombré.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "4": 
+						                {
+						                    "id": 77,
+						                    "txt": "Gaine gaz",
+						                    "tip": "Sont accessibles, en bon état, non encombré,  ventilations gaz basse\/haute non obstrué, signalétique présente",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "5": 
+						                {
+						                    "id": 72,
+						                    "txt": "Éclairages - détecteurs présence - électricité en général",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "6": 
+						                {
+						                    "id": 132,
+						                    "txt": "Vidéo surveillance - haut parleur-signalétique vidéo surveillance",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                }
+					            }
+				        },
+			        "3": 
+				        {
+				            "id": 4,
+				            "txt": "Ascenseurs",
+				            "ico": "3",
+				            "pts": 
+					            {
+					                "0": 
+						                {
+						                    "id": 126,
+						                    "txt": "Portes palière - portes cabine - cellule",
+						                    "tip": "Sont en bon état de fonctionnement,",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "1": 
+						                {
+						                    "id": 24,
+						                    "txt": "Miroir, mains courantes",
+						                    "tip": "Sont en place et en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "2": 
+						                {
+						                    "id": 117,
+						                    "txt": "Éclairages cabine -plaque bouton cabine",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                }
+					            }
+				        },
+			        "4": 
+				        {
+				            "id": 32,
+				            "txt": "Escaliers - Paliers",
+				            "ico": "4",
+				            "pts": 
+					            {
+					                "0": 
+						                {
+						                    "id": 35,
+						                    "txt": "Blocs de secours",
+						                    "tip": "Les ampoules fonctionnent, les blocs ne sont pas dégradés.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "1": 
+						                {
+						                    "id": 40,
+						                    "txt": "commande de désemfumage (cable ou pneumatique)",
+						                    "tip": "Sont en bon état et fonctionnent.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "2": 
+						                {
+						                    "id": 83,
+						                    "txt": "Rambardes, Mains courantes, cages anti-chute",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "3": 
+						                {
+						                    "id": 72,
+						                    "txt": "Éclairages - détecteurs présence - électricité en général",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "4": 
+						                {
+						                    "id": 119,
+						                    "txt": "Colonne séche et signalétique",
+						                    "tip": "bouchons et chaînettes, vannes, signalétiques sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "5": 
+						                {
+						                    "id": 124,
+						                    "txt": "Porte accés",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "6": 
+						                {
+						                    "id": 77,
+						                    "txt": "Gaine gaz",
+						                    "tip": "Sont accessibles, en bon état, non encombré,  ventilations gaz basse\/haute non obstrué, signalétique présente",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "7": 
+						                {
+						                    "id": 112,
+						                    "txt": "Gaines techniques divers",
+						                    "tip": "Sont accessibles, en bon état, non encombré.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "8": 
+						                {
+						                    "id": 125,
+						                    "txt": "Exutoire de fumées",
+						                    "tip": "Sont fermé et en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                }
+					            }
+				        },
+			        "5": 
+				        {
+				            "id": 15,
+				            "txt": "Escaliers secours",
+				            "ico": "4",
+				            "pts": 
+					            {
+					                "0": 
+						                {
+						                    "id": 72,
+						                    "txt": "Éclairages - détecteurs présence - électricité en général",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "1": 
+						                {
+						                    "id": 35,
+						                    "txt": "Blocs de secours",
+						                    "tip": "Les ampoules fonctionnent, les blocs ne sont pas dégradés.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "2": 
+						                {
+						                    "id": 71,
+						                    "txt": "Rambardes, Mains courantes",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "3": 
+						                {
+						                    "id": 124,
+						                    "txt": "Porte accés",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "4": 
+						                {
+						                    "id": 125,
+						                    "txt": "Exutoire de fumées",
+						                    "tip": "Sont fermé et en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                }
+					            }
+				        },
+			        "6": 
+				        {
+				            "id": 8,
+				            "txt": "Sous-sol - Caves",
+				            "ico": "8",
+				            "pts": 
+					            {
+					                "0": 
+						                {
+						                    "id": 122,
+						                    "txt": "Porte accès - portes vers locaux à risques",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "1": 
+						                {
+						                    "id": 72,
+						                    "txt": "Éclairages - détecteurs présence - électricité en général",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "2": 
+						                {
+						                    "id": 35,
+						                    "txt": "Blocs de secours",
+						                    "tip": "Les ampoules fonctionnent, les blocs ne sont pas dégradés.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "3": 
+						                {
+						                    "id": 77,
+						                    "txt": "Gaine gaz",
+						                    "tip": "Sont accessibles, en bon état, non encombré,  ventilations gaz basse\/haute non obstrué, signalétique présente",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "4": 
+						                {
+						                    "id": 112,
+						                    "txt": "Gaines techniques divers",
+						                    "tip": "Sont accessibles, en bon état, non encombré.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                }
+					            }
+				        },
+			        "7": 
+				        {
+				            "id": 9,
+				            "txt": "Parkings souterrains-aérien",
+				            "ico": "11",
+				            "pts": 
+					            {
+					                "0": 
+						                {
+						                    "id": 123,
+						                    "txt": "Plan securité",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "1": 
+						                {
+						                    "id": 78,
+						                    "txt": "Extincteurs -  Sceau - Bac à sable",
+						                    "tip": "Sont en place et ne sont pas dégradés ou percutés.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "2": 
+						                {
+						                    "id": 34,
+						                    "txt": "Porte automatique-portail",
+						                    "tip": "visite prestataire non réalisé ou hors délai",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "3": 
+						                {
+						                    "id": 72,
+						                    "txt": "Éclairages - détecteurs présence - électricité en général",
+						                    "tip": "Sont en bon état",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "4": 
+						                {
+						                    "id": 112,
+						                    "txt": "Gaines techniques divers",
+						                    "tip": "Sont accessibles, en bon état, non encombré.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "5": 
+						                {
+						                    "id": 35,
+						                    "txt": "Blocs de secours",
+						                    "tip": "Les ampoules fonctionnent, les blocs ne sont pas dégradés.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                }
+					            }
+				        },
+			        "8": 
+				        {
+				            "id": 38,
+				            "txt": "Controle des vérifications périodiques préstataires",
+				            "ico": "0",
+				            "pts": 
+					            {
+					                "0": 
+						                {
+						                    "id": 80,
+						                    "txt": "extincteurs",
+						                    "tip": "Visite prestataire non réalisé ou hors délai",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "1": 
+						                {
+						                    "id": 32,
+						                    "txt": "Système de sécurité et incendie",
+						                    "tip": "Visite prestataire non réalisé ou hors délai",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "2": 
+						                {
+						                    "id": 86,
+						                    "txt": "système de désenfumage",
+						                    "tip": "Visite prestataire non réalisé ou hors délai",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "3": 
+						                {
+						                    "id": 103,
+						                    "txt": "Ascenseur",
+						                    "tip": "Visite prestataire non réalisé ou hors délai",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "4": 
+						                {
+						                    "id": 94,
+						                    "txt": "Chaufferie",
+						                    "tip": "visite prestataire non réalisé ou hors délai",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "5": 
+						                {
+						                    "id": 34,
+						                    "txt": "Porte automatique-portail",
+						                    "tip": "visite prestataire non réalisé ou hors délai",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "6": 
+						                {
+						                    "id": 67,
+						                    "txt": "Toitures térrasse",
+						                    "tip": "visite prestataire non réalisé ou hors délai",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "7": 
+						                {
+						                    "id": 111,
+						                    "txt": "VMC gaz et sanitaire",
+						                    "tip": "Visite prestataire non réalisé ou hors délai",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "8": 
+						                {
+						                    "id": 104,
+						                    "txt": "Colonne séche",
+						                    "tip": "Visite prestataire non réalisé ou hors délai.",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                },
+					                "9": 
+						                {
+						                    "id": 44,
+						                    "txt": "surprésseur",
+						                    "tip": "Visite prestataire non réalisé ou hors délai",
+						                    "cat": "1234",
+						                    "urg": "1"
+						                }
+					            }
+				        }
+			    }
+		}
+}
