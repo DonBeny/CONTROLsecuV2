@@ -1,1 +1,0 @@
-# Fichiers Gradle du projet
